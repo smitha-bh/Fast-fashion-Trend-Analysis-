@@ -5,7 +5,7 @@ This project analyzes **2+ years of sales and consumer data** to understand the 
 
 ## 📊 Data & Methodology  
 - **Dataset:** Collected from the customers and some brands, covering sales, trends, and consumer behavior.  
-- **Tech Stack:** Python (Pandas, NumPy, Scikit-learn), Excel, Power BI.  
+- **Tech Stack:** Python, Excel, Power BI.  
 - **Analysis:** Time-series forecasting, demand trend analysis, and visualization.  
 
 ## 📈 Key Findings  
